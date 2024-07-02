@@ -1,0 +1,15 @@
+CARS       RATING
+
+
+-------------------------------------------------------------
+
+Mercedes S Class, 4.8
+BMW M Class, 4.0
+Lamborghini Urus, 4.3
+Porsche 911 GTR, 4.5
+Tesla Model S, 3.0
+Toyota Supra MK4, 4.0, 
+Toyota Corrolla S, 3.0,
+Mercedez E Class, 4.0, 
+Mercedez G Class, 4.3, 
+Mercedez C Class, 4.0, 
